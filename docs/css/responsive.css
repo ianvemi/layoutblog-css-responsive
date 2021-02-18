@@ -147,6 +147,7 @@ aside h3{
 
     #articles h3{
         margin-top: 0px;
+        width: 103%;
     }
 
 #articles article{
@@ -156,7 +157,7 @@ aside h3{
     aside h3{
         text-align: center;
         float: none;
-        width: 97%;
+        width: 100%;
         padding: 0px;
         font-size: 18px;
     }
@@ -172,7 +173,7 @@ aside h3{
 
     #card{
         height: 100px;
-        width: 100%;
+        width: 103%;
         float: none;
         margin:0px;
    
@@ -189,6 +190,11 @@ aside h3{
     #cards{
         width: 100%;
   
+    }
+
+    #card:hover{
+        background-color: #242424;
+        transform: none;
     }
 
     #card .category{
