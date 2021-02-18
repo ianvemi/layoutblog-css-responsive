@@ -131,7 +131,7 @@ aside h3{
 
 @media (max-width:680px){
     .wrap{
-        width: 89%;
+        width: 100%;
     }
 
     #lateral{
@@ -148,6 +148,10 @@ aside h3{
     #articles h3{
         margin-top: 0px;
     }
+
+#articles article{
+    width: 90%;
+}
 
     aside h3{
         text-align: center;
@@ -193,7 +197,7 @@ aside h3{
 
     #menu ul li{
         font-size:11px ;
-        width: 91%;
+        width: 85%;
         text-align: left;
         display: block;
         float: none;
@@ -210,7 +214,7 @@ aside h3{
 
     #header{
         height:365px;
-        width: 101%;
+        width: 103%;
     }
     #info_foot{
         width: 100%;
